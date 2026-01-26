@@ -14,4 +14,7 @@ need to understand of scalability mesuerment
 
 <h1> Type of scaling </h1>
 <b>1. Vertical Scaling (Scale Up)</b>
+<img width="1559" height="810" alt="Screenshot from 2026-01-26 20-43-23" src="https://github.com/user-attachments/assets/e6ca9f58-a6d6-4d8b-9647-314707f5721f" />
+
+
 <b>2 Horizontal Scaling (Scale Out)</b>
