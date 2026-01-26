@@ -15,6 +15,8 @@ need to understand of scalability mesuerment
 <h1> Type of scaling </h1>
 <b>1. Vertical Scaling (Scale Up)</b>
 <img width="1559" height="810" alt="Screenshot from 2026-01-26 20-43-23" src="https://github.com/user-attachments/assets/e6ca9f58-a6d6-4d8b-9647-314707f5721f" />
+Vertical Scaling is about adding more resource to machine (server) if server has 8 cpu 16 ram add 16 cpu 32GB RAM faster SSD and good network card for better network bandwidth 
+Vartcial Scaling hit ceiling when available biggest machine is not big enough to handle load 
 
 
 <b>2 Horizontal Scaling (Scale Out)</b>
