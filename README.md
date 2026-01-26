@@ -18,3 +18,5 @@ need to understand of scalability mesuerment
 
 
 <b>2 Horizontal Scaling (Scale Out)</b>
+<img width="1559" height="810" alt="Screenshot from 2026-01-26 20-49-31" src="https://github.com/user-attachments/assets/0b1b258d-9eaf-45d9-8879-c06db8590d3c" />
+
