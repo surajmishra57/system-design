@@ -22,5 +22,5 @@ Vartcial Scaling hit ceiling when available biggest machine is not big enough to
 <b>2 Horizontal Scaling (Scale Out)</b>
 <img width="1559" height="810" alt="Screenshot from 2026-01-26 20-49-31" src="https://github.com/user-attachments/assets/0b1b258d-9eaf-45d9-8879-c06db8590d3c" />
 
-Horizontal scaling is about adding more servers instead of adding more resources in single server.
+Horizontal scaling is about adding more servers instead of adding more resources in single server and load balancer, load balancer is a system who is responsible for distributing incomeing request to multiple servers so no single server become overloaded by requests.
 
