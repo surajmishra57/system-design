@@ -24,3 +24,10 @@ Vartcial Scaling hit ceiling when available biggest machine is not big enough to
 
 Horizontal scaling is about adding more servers instead of adding more resources in single server and load balancer, load balancer is a system who is responsible for distributing incomeing request to multiple servers so no single server become overloaded by requests.
 
+<h3> Factor for measuring scalability</h3>
+ 1.QPS : query per second 
+ 2.Active concurrent users
+ 3.Data volume, amount of data is prosessed or store 
+ 4. Bandwidth, amount of data per unit 
+5. message process queues per second 
+6. RPS : request per second 
