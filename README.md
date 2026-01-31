@@ -32,4 +32,3 @@ Horizontal scaling is about adding more servers instead of adding more resources
 5. message process queues per second 
 6. RPS : request per second 
 
-Type of load balancer 
