@@ -33,4 +33,6 @@ Horizontal scaling is about adding more servers instead of adding more resources
 6. RPS : request per second <br/>
 
 <h2>Teir of scale</h2>
+Application based
+Database based
 
