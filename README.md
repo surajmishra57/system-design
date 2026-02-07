@@ -34,6 +34,8 @@ Horizontal scaling is about adding more servers instead of adding more resources
 
 <h2>Teir of scale</h2>
 Application based
-Database based
+
 
 1. Application Based is one the most easy to scale we just need replication of our service 
+
+Database based
