@@ -39,3 +39,5 @@ Application based
 1. Application Based is one the most easy to scale we just need replication of our service 
 
 Database based
+
+2. This one is really tricky we need to maintaine data consistency 
