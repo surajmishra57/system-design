@@ -40,4 +40,4 @@ Application based
 
 Database based
 
-2. This one is really tricky we need to maintaine data consistency 
+2. This one is really tricky we need to maintaine data consistency we can't simply replicate database pod
